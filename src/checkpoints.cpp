@@ -44,6 +44,7 @@ namespace Checkpoints
             (  4000, uint256("0xf3fe4dd7e942d62fcdc6527cac59501d93ec171cdb03edbfa3fc2e8c800d98a5"))
             (  4499, uint256("0x0c5039ee54a6f4a9a759fd76287e8e0c75bfa1d8f7dd120912be80bb6349b442"))
             (  5100, uint256("0xca403929392ed07614d01bb39616283daf2cfea848c156e939728d4654e86792"))
+            (  5749, uint256("0x6537da1bc102baea63d91b6762496a4b89f1f0e4825572413252aa7e3cdf5c82"))
             ;
 
 
